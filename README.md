@@ -1,7 +1,7 @@
 # MMD LICENSE 1.0
 
-              MMD LICENSE
-           =====================
+               MMD LICENSE
+            =================
 
 # 1. Definitions
 
