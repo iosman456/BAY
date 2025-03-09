@@ -1,8 +1,6 @@
 MMD LICENSE
 ====================
 
-MMD License 1.0 ("MMD")
-
 1. Definitions
 ---------------
 "Work" refers to the software and any components, scripts, or resources associated with it.
@@ -35,3 +33,19 @@ This License shall be governed by and construed in accordance with the laws of t
 8. Acknowledgment
 -----------------
 By using the Work, the Licensee acknowledges that they have read this License, understand it, and agree to be bound by its terms and conditions.
+
+9. Contributions
+----------------
+Unless you explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by you to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions.
+
+10. Trademarks
+--------------
+This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for describing the origin of the Work and reproducing the content of the COPYRIGHT NOTICE file.
+
+11. Severability
+----------------
+If any provision of this License is held to be unenforceable, this License will remain in effect with the provision omitted, unless omission would frustrate the intent of the parties, in which case this License will immediately terminate.
+
+12. Entire Agreement
+--------------------
+This License constitutes the entire agreement between the parties with respect to the Work licensed herein, and supersedes all prior or contemporaneous understandings, agreements, negotiations, representations, and warranties, both written and oral, with respect to such subject matter.
