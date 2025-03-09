@@ -26,7 +26,7 @@ read answer
 if [ "$answer" == "y" ]; then
     echo "MMD LICENSE ana lisans olarak ayarlandı."
     echo "Sistem açılıyor..."
-    echo "Tebrikler! Artık yaptığınız her şey etik olarak gözükecek."
+    echo "Congratulations! Everything you do will now be seen as ethical.”
 else
-    echo "Sistem açılamadı."
+    echo "Sistem durduruldu."
 fi
