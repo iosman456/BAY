@@ -20,15 +20,14 @@
 # 16. Acknowledgment
 # 17. All Rights Reserved
 
-if [ ! -d "MMD-LICENSE" ]; then
-    echo "The system has been shut down indefinitely. To restart it, you need to re-add the file from https://github.com/iosman456/MMD-LICENSE.git."
-    exit 1
-fi
-
 echo "Should the system start? (y/n)"
 read answer
 
 if [ "$answer" == "y" ]; then
+    if [ ! -d "MMD-LICENSE" ]; then
+        echo "The system has been shut down indefinitely. To restart it, you need to re-add the file from https://github.com/iosman456/MMD-LICENSE.git."
+        exit 1
+    fi
     echo "MMD LICENSE has been set as the main license."
     echo "System is starting..."
     sleep 1
